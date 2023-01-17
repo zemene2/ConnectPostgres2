@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46dfe9d1-fff2-478c-b203-b71c92b6820e" name="Changes" comment="Code Connection With Postgres." />
+    <list default="true" id="46dfe9d1-fff2-478c-b203-b71c92b6820e" name="Changes" comment="Code Connection With Postgres.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PostgreSQLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PostgreSQLConnection.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673818895246</updated>
-      <workItem from="1673818896427" duration="5485000" />
+      <workItem from="1673818896427" duration="5842000" />
     </task>
     <task id="LOCAL-00001" summary="Code Connection With Postgres.">
       <created>1673984496118</created>
@@ -107,7 +109,35 @@
       <option name="project" value="LOCAL" />
       <updated>1673984840151</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Code Connection With Postgres.">
+      <created>1673984937415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673984937415</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code Connection With Postgres.">
+      <created>1673985052299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673985052299</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Code Connection With Postgres.">
+      <created>1673985113555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673985113555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Code Connection With Postgres.">
+      <created>1673985267788</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673985267788</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
