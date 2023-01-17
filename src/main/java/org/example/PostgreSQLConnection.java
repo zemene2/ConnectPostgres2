@@ -88,7 +88,7 @@ public class PostgreSQLConnection {
     }
 
     private void disconnect() throws Exception {
-        if (this.connection != null) {
+        if (this.connection != null){
             this.connection.close();
             this.connection = null;
         }
