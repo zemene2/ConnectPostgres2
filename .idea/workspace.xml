@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46dfe9d1-fff2-478c-b203-b71c92b6820e" name="Changes" comment="Code Connection With Postgres.">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/USER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PostgreSQLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PostgreSQLConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +57,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -62,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\ConnectPostgres2\target\classes\org\example" />
       <recent name="C:\Users\Lenovo\IdeaProjects\ConnectPostgres2\src\main\java" />
     </key>
   </component>
@@ -93,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673818895246</updated>
-      <workItem from="1673818896427" duration="5842000" />
+      <workItem from="1673818896427" duration="48918000" />
     </task>
     <task id="LOCAL-00001" summary="Code Connection With Postgres.">
       <created>1673984496118</created>
@@ -137,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673985267788</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Code Connection With Postgres.">
+      <created>1673985495659</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673985495659</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Code Connection With Postgres.">
+      <created>1673985616584</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673985616584</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,5 +167,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code Connection With Postgres." />
     <option name="LAST_COMMIT_MESSAGE" value="Code Connection With Postgres." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
